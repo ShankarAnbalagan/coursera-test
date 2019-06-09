@@ -14,7 +14,7 @@ h1 {
 section{
     margin: 10px;
     background-color: gray;
-    border: 5px solid black;
+    border: 1px solid black;
 }
 
 .heading{
@@ -22,8 +22,8 @@ section{
     width: 40%;
     text-align: center;
     float: right;
-    border-left: 5px solid black;
-    border-bottom: 5px solid black;;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;;
 }
 
 
